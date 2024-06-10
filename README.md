@@ -8,7 +8,7 @@ The Advertising dataset contains historical data on advertising expenditures and
 
 # Conclusion
 
--In this task, I have used the Advertising Dataset to predict sales based on TV, Radio, and Newspaper advertising budgets.
+- In this task, I have used the Advertising Dataset to predict sales based on TV, Radio, and Newspaper advertising budgets.
 
 - I performed an analysis and visualization of the dataset to understand the relationships between features and identify outliers.
 
